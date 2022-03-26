@@ -3,4 +3,6 @@ This model takes image of a potato plant leaf as an input and classifies the pla
 1. Healthy plant
 2. Early blight
 3. Late blight
+
+
 This ML model makes use of convolutional neural networks a.k.a CNN's
